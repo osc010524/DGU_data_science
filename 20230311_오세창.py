@@ -66,6 +66,8 @@ def step4():
     for date in dates:
         print("the lecture is held on" + date)
 
+# step4()
+
 #strp 5
 def step5():
     """continue를 사용한 1부터 5까지의 합 구하기"""
